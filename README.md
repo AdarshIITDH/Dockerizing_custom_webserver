@@ -79,7 +79,7 @@ docker build -t custom_webserver:v1 -f dockerfile .
 
 Lets! Test the image
 ```
-docker run -it-d  -p 8080:8:80 custom_webserver:v1
+docker run -it-d  -p 8080:80 custom_webserver:v1
 ```
 
 ![image](https://github.com/AdarshIITDH/Dockerizing_custom_webserver/assets/60352729/a6c11cb5-d7e3-4990-999a-2578ef1fe0c0)
