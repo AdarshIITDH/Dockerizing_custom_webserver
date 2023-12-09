@@ -9,6 +9,7 @@ Install docker in ubuntu machine
 ```
 sudo apt install docker.io -y
 ```
+![image](https://github.com/AdarshIITDH/Dockerizing_custom_webserver/assets/60352729/184a61da-d97b-4c78-badf-499f29d9d748)
 
 1. Basic HTML Page:
 
