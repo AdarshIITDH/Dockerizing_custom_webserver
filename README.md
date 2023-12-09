@@ -85,6 +85,7 @@ docker run -it-d  -p 8080:8:80 custom_webserver:v1
 ![image](https://github.com/AdarshIITDH/Dockerizing_custom_webserver/assets/60352729/a6c11cb5-d7e3-4990-999a-2578ef1fe0c0)
 
 Its working fine WOW!
+
 5. Push the image on ECR
 
    - Make the public repository and push them on the ECR
