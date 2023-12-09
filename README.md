@@ -91,7 +91,21 @@ Its working fine WOW!
    - Make the public repository and push them on the ECR
 
 ```
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+
+apt install unzip
+unzip awscliv2.zip
+sudo ./aws/install
+aws --version
 
 
 ```
 
+```
+aws configure
+
+AWS Access Key ID:
+AWS secret Acess Key:
+Default region name: ap-south-1
+Default output format:
+```
