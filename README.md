@@ -109,3 +109,17 @@ AWS secret Acess Key:
 Default region name: ap-south-1
 Default output format:
 ```
+
+![image](https://github.com/AdarshIITDH/Dockerizing_custom_webserver/assets/60352729/4dee76ea-f6a1-40a4-acb5-f182ec183fa0)
+
+
+
+![image](https://github.com/AdarshIITDH/Dockerizing_custom_webserver/assets/60352729/17a074be-13d1-4782-94b9-1e43cf19b514)
+
+
+![image](https://github.com/AdarshIITDH/Dockerizing_custom_webserver/assets/60352729/6972a8f3-3f8d-40e2-8a76-e942a2a52c1b)
+```
+https://gallery.ecr.aws/c3w1m1q2/docker_customwebservice_adarsh
+```
+
+
