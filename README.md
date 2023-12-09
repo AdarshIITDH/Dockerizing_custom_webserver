@@ -5,6 +5,11 @@ The objective of this assignment is to familiarize yourself with Docker and cont
 
 ### Requirements:
 
+Install docker in ubuntu machine
+```
+sudo apt install docker.io -y
+```
+
 1. Basic HTML Page:
 
    - Create a plain HTML page named `index.html` with some content (e.g., "Hello, Docker!").
